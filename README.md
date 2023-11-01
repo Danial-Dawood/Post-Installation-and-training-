@@ -21,6 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Item 1 - Configuring Roles (Admin Panel/Agents/Roles) - https://docs.osticket.com/en/latest/Admin/Agents/Roles.html
+- Item 1.5 - To Configure a Role make sure that on the Top right it says "Agent Panel".(if it says admin panel click it and it will change To Agent panel) Then Click "Agents" and under   the agents tab there will be a "Roles" subsection. Then click "Add New Role."(This is what is looks like)<img width="1440" alt="Screen Shot 2023-11-01 at 2 26 12 PM" src="https://github.com/Danial-Dawood/Post-Installation-and-training-/assets/149525309/b33ac542-ca23-487f-b45a-72c889146ae5">
 - Item 2 - Configure Departments(Admin Panel/Agents/Departments) - https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
 - Item 3 - Configure Teams(Admin Panel/Agents/Teams) - https://docs.osticket.com/en/latest/Admin/Agents/Teams.html 
 - Item 4 - Allow all to Create Tickets(Admin Panel/Settings/Authentication Settings) 

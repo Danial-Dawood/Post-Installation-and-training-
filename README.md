@@ -38,8 +38,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 7.5 - To create New users We will Have to Switch over to the "Admin Panel" so click at the very top right of the screen.(Right next to your username it will say what panel youre going to go if you click it.) Then go over "Users" and under "User Directory" click "Add User" andc create two new users (should look somthing like this when you're done) <img width="1440" alt="Screen Shot 2023-11-01 at 4 28 17 PM" src="https://github.com/Danial-Dawood/Post-Installation-and-training-/assets/149525309/566c9910-5925-4a28-815d-4c16481bef34">
 - Item 8 - Configure SLA(The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.)(Admin Panel/Manage/SLA) https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html
 - Item 8.5 - To make SLA we will have to switch Agent Panel we are currently in to the Admin panel. Then click manage and one of the subsections under willl be titlesd SLA thats where we will be creating our three SLA Plans. Sev-A(1 Hour-24/7), Sev-B(4 Hour-24/7) Sev-C(8 Hours-Business hours). This is what it should look like youre done making those three SLA Plans<img width="1440" alt="Screen Shot 2023-11-01 at 4 52 58 PM" src="https://github.com/Danial-Dawood/Post-Installation-and-training-/assets/149525309/52497fba-60d6-4ec5-825f-6055acc35f46">
+- Item 9 - Configure Help Topics(Admin Panel/Manage/Help Topics) https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html
+- Item 9.5 - To configure Help Topics it will still be under the manage tab that we are under, just under the "Help Topics" subsection. We will be creating 4 different Help Topics Business Critical Outage, Personal Computer Issues, Equipment Request, Password Request. This is what youre end result will be.<img width="1440" alt="Screen Shot 2023-11-01 at 5 05 14 PM" src="https://github.com/Danial-Dawood/Post-Installation-and-training-/assets/149525309/5d1c5129-741c-4ff2-9eff-c41525d60398">
 
-- Item 8 - Configure Help Topics(Admin Panel/Manage/Help Topics)
 
 
 

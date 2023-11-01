@@ -28,7 +28,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 2.75 - Create a new department and name it "System Administrators" (Leave all other options in their default position.) 
 - Item 3 - Configure Teams(Admin Panel/Agents/Teams) - https://docs.osticket.com/en/latest/Admin/Agents/Teams.html
 - Item 3.5 - Still under the Agent Panel clik on the teams Subsection and create two different teams "Level One Support" and "Level Two Support(Add yourself to Level Two"(example below take note how it even displays that we have assigned one team member to level two support)<img width="1440" alt="Screen Shot 2023-11-01 at 3 23 36 PM" src="https://github.com/Danial-Dawood/Post-Installation-and-training-/assets/149525309/6849e06e-59d9-4970-a49f-f8b676edd512">
-- Item 4 - Allow all to Create Tickets(Admin Panel/Settings/Authentication Settings) 
+- Item 4 - Allow all to Create Tickets(Admin Panel/Settings/Authentication Settings)
+- Item 4.5 - To enable all to make tickets we Click on "Settings" and then "User Setting." make sure "Registration Required:[	] Require registration and login to create tickets is unchecked. this makes it so that we can make tickets without have to worry about logins)<img width="1440" alt="Screen Shot 2023-11-01 at 3 31 59 PM" src="https://github.com/Danial-Dawood/Post-Installation-and-training-/assets/149525309/126f3edf-3161-4b82-bb38-02a692277ab9">
+
 - Item 5 - Configure Agents(Workers) (Admin Panel/Agents/Add New)
 - Item 6 - Configure Users(Customers)(Agent Panel/Users/Add New)
 - Item 7 - Configure SLA(Level of service expected by a customer from a supplier)(Admin Panel/Manage/SLA)
